@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wagga Church of Christ - ECPv4.7.0.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wagga Church of Christ
+X-ORIGINAL-URL:https://www.waggachurchofchrist.org.au
+X-WR-CALDESC:Events for Wagga Church of Christ
+END:VCALENDAR
